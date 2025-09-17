@@ -44,5 +44,3 @@ This project uses **Power BI dashboards** to analyze attrition data for Atlas La
 - Time-based spikes in departures indicate possible external or organizational triggers  
 
 --
-![Attrition Trend](images/Attrition.png)  
-![Performance Tracker](images/Preformance Tracker.png)  
